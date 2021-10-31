@@ -9,6 +9,7 @@ const Home = () => {
 					<span>Enter match:</span>
 					<input type='text' id='matchId' />
 				</div>
+                <button className='btn btn-secondary'>Enter Match</button>
 				<button className='btn'>New Match</button>
 			</div>
 		</div>
