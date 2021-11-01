@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/web/node_modules
+/websocket/node_modules
 /.pnp
 .pnp.js
 
@@ -21,3 +23,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/web/npm-debug.log*
+/web/yarn-debug.log*
+/web/yarn-error.log*
+/websocket/npm-debug.log*
+/websocket/yarn-debug.log*
+/websocket/yarn-error.log*
